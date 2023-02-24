@@ -1,11 +1,15 @@
 
 /* Your CSS Code here. */
 .box {
+background-color: lightblue;
+	padding: 50px;
+	width: 300px;
+	border: 15px solid blue;
 	margin: 20px;
 	
-	padding: 50px;
-	color: black;
-	width: 300px;
-	background-color: lightblue;
-	border:15px solid blue;
+	
+/* 	color: black; */
+	
+	
+	
 }
